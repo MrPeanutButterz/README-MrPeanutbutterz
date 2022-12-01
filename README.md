@@ -1,3 +1,3 @@
-Hi, I’m @MrPeanutbutterz
+Hi, I’m MrPeanutbutterz
 
 New to this... 
