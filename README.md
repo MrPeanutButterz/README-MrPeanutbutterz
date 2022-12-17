@@ -1,3 +1,3 @@
 Hi, I’m MrPeanutbutterz
 
-Love to code this i havend done before!
+Love to code things i havend done before!
