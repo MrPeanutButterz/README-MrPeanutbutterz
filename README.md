@@ -1,4 +1,4 @@
-### Hi, I’m MrPeanutbutterz
+# Hi, I’m MrPeanutbutterz
 
 I'm a full stack developer and a high school student. Love to code things i havend done before!
 
