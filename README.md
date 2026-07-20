@@ -109,11 +109,13 @@ PostgreSQL • AWS • Linux
 
 🗺 Journey
 
-🎮 Bitburner
+🎮 Bitburner game
       ↓
-🎓 NOVI
+🎓 NOVI School
       ↓
 💼 Full Stack Developer
       ↓
-☕ Building CoffeeMood
+📝 Creating ZusterJoy Saas
+      ↓
+☕ Building CoffeeMood Saas
 ```
