@@ -58,7 +58,12 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 
 ### Design
 - Figma
+- Relume
 - UI / UX
+
+### AI
+- ChatGPT
+- Cursor
 
 ---
 
