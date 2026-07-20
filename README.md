@@ -70,12 +70,6 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 
 ---
 
-# 📈 GitHub Stats
-
-> Add your favorite GitHub stats cards here.
-
----
-
 # 💭 My Philosophy
 
 > **"Programming isn't about knowing everything. It's about learning how to solve the next problem."**
@@ -84,9 +78,8 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 
 # 📫 Let's Connect
 
-- GitHub
-- LinkedIn
-- Portfolio *(coming soon)*
+- [GitHub](https://github.com/MrPeanutButterz)
+- [LinkedIn](https://www.linkedin.com/in/charlie-eysbroek-aa229a108)
 
 ---
 
