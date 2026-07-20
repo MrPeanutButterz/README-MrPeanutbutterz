@@ -1,8 +1,126 @@
-# Hi, I’m MrPeanutbutterz
+# 👋 Hey, I'm Charlie
 
-I'm a student at Novi University of Applied Sciences in Utrecht, currently enrolled in the Fullstack Developer HBO program. My passion lies in the creative process of coding, where I find joy in bringing ideas to life through lines of code. I'm excited to be on this journey of learning and exploration, and I look forward to sharing and growing together with the vibrant community here.
+> *Building software that solves real-world problems.*
 
-## Brainwave Brilliance
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma,idea,vscode,linux,postgres,postman)](https://skillicons.dev)
+I'm a Full Stack Developer from the Netherlands with a passion for creating software that helps businesses work smarter. I enjoy turning complex processes into clean, intuitive applications and continuously improving my skills by building real projects.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,regex,vim)](https://skillicons.dev)
+---
+
+# 🚀 My Developer Journey
+
+```text
+🎮 2022
+│
+├── Started with Bitburner
+│   Learned JavaScript, debugging, researching
+│   and how to think like a developer.
+│
+🎓 2023 – 2026
+│
+├── NOVI University
+│   Built web, mobile and backend projects
+│   using modern technologies.
+│
+💼 Today
+│
+├── Full Stack Development
+│   React • Spring Boot • PostgreSQL • AWS
+│
+└── Building CoffeeMood
+    A complete business platform for catering,
+    corporate gifts and employee portals.
+```
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- React Native
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+
+### Cloud & DevOps
+- AWS
+- Linux
+- Docker
+- GitHub Actions
+
+### Design
+- Figma
+- UI / UX
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎮 **Bitburner** | Where I learned how to think like a developer. |
+| 🎓 **NOVI** | A collection of all my university projects. |
+| ☕ **CoffeeMood** | A modern SaaS platform for catering, corporate gifts and employee portals. |
+| 📱 **ZusterJoy** | Mobile app with a Spring Boot backend for time tracking and invoicing. |
+
+---
+
+# 📈 GitHub Stats
+
+> Add your favorite GitHub stats cards here.
+
+---
+
+# 💭 My Philosophy
+
+> **"Programming isn't about knowing everything. It's about learning how to solve the next problem."**
+
+---
+
+# 📫 Let's Connect
+
+- GitHub
+- LinkedIn
+- Portfolio *(coming soon)*
+
+---
+
+# 🖥 Developer Dashboard
+
+```text
+╭──────────────────────────────────────────────╮
+│ Charlie Eysbroek                             │
+│ Full Stack Developer                         │
+╰──────────────────────────────────────────────╯
+
+📍 Current Focus
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☕ CoffeeMood SaaS
+███████████████░░░░
+
+📚 Learning
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Spring Boot      ████████████
+React            ████████████
+AWS              ██████████░░
+UI/UX            █████████░░░
+
+🛠 Technologies
+Java • Spring Boot • React • TypeScript
+PostgreSQL • AWS • Linux
+
+🗺 Journey
+
+🎮 Bitburner
+      ↓
+🎓 NOVI
+      ↓
+💼 Full Stack Developer
+      ↓
+☕ Building CoffeeMood
+```
