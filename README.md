@@ -26,6 +26,9 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 ├── Full Stack Development
 │   React • Spring Boot • PostgreSQL • AWS
 │
+├── ZusterJoy Mobile
+│   React Native / Expo • Spring Boot • PostgreSQL • AWS   
+│
 └── Building CoffeeMood
     A complete business platform for catering,
     corporate gifts and employee portals.
