@@ -36,7 +36,6 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 |
 └── Building CoffeeMood
 │   A complete business platform for catering,
-│   A complete business platform for catering,
 │   corporate gifts and employee portals.
 │
 └── Rebuilding dekleinebaron.nl
