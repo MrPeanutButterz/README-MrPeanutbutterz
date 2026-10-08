@@ -65,6 +65,7 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 ### AI
 - ChatGPT
 - Cursor
+- Claude
 
 ---
 
@@ -74,8 +75,8 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 |---------|-------------|
 | 🎮 **Bitburner** | Where I learned how to think like a developer. |
 | 🎓 **NOVI** | A collection of all my university projects. |
-| ☕ **CoffeeMood** | A modern SaaS platform for catering, corporate gifts and employee portals. |
 | 📱 **ZusterJoy** | Mobile app with a Spring Boot backend for time tracking and invoicing. |
+| ☕ **CoffeeMood** | A modern SaaS platform for catering, corporate gifts and employee portals. |
 
 ---
 
