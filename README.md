@@ -26,13 +26,25 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 ├── Full Stack Development
 │   React • Spring Boot • PostgreSQL • AWS
 │
+└── Building dekleinebaron.nl
+│   React • Domein hosting
+│
 ├── ZusterJoy Mobile
 │   React Native / Expo • Spring Boot • PostgreSQL • AWS   
 │
 ☕ 2026 – now
+|
 └── Building CoffeeMood
-    A complete business platform for catering,
-    corporate gifts and employee portals.
+│   A complete business platform for catering,
+│   A complete business platform for catering,
+│   corporate gifts and employee portals.
+│
+└── Rebuilding dekleinebaron.nl
+│   React • Domein hosting
+│
+└── Building idperformance.nl
+│   React • Domein hosting
+│
 ```
 
 ---
