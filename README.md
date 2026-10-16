@@ -29,10 +29,16 @@ I'm a Full Stack Developer from the Netherlands with a passion for creating soft
 └── Building dekleinebaron.nl
 │   React • Domein hosting
 │
+└── Work as a Scrum master / Application Manager
+│   OutSmart
+│
 ├── ZusterJoy Mobile
 │   React Native / Expo • Spring Boot • PostgreSQL • AWS   
 │
 ☕ 2026 – now
+│
+└── Work as a Scrum Product Owner
+│   OutSmart
 |
 └── Building CoffeeMood
 │   A complete business platform for catering,
