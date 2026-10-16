@@ -147,4 +147,6 @@ PostgreSQL • AWS • Linux
 📝 Creating ZusterJoy Saas
       ↓
 ☕ Building CoffeeMood Saas
+      ↓
+🧭 Ordin.one Company
 ```
